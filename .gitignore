@@ -1,0 +1,11 @@
+# Sorties de compilation Code::Blocks
+obj/
+bin/
+
+# Fichiers d'état propres à Code::Blocks local
+*.layout
+*.depend
+
+# SDL2 fournie (binaires tiers, ~25 Mo)
+SDL2/
+SDL2.dll
